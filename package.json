@@ -1,0 +1,12 @@
+{
+  "name": "CustomMixins",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "vite": "^2.9.13"
+  },
+  "scripts": {
+    "dev":"vite"
+  }
+}
